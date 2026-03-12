@@ -83,7 +83,7 @@ El stock mínimo por defecto es de 5 unidades, aunque puede definirse un valor d
 
 
 
-#PROMPT UTILIZADO PARA CLAUDE: 
+# PROMPT UTILIZADO PARA CLAUDE: 
 
 
 "Redacta el código preciso de Python para el desarrollo de una plataforma de gestión de inventario de productos cosméticos. 
@@ -91,6 +91,6 @@ Debe contar con capa de presentación (tkinter) que permita la gestión de event
 En cuanto al control de consistencia de inventario, es necesaria la existencia del botón de alerta que, al ejecutarlo muestre únicamente los productos cuya cantidad actual esté por debajo de su
 stock mínimo definido. El resultado generado debe incluir estándar de documentación de código orientado a un programador junior, ten en cuenta las buenas prácticas y generar un código limpio y legible."
 
-##Conversación con la IA (CLAUDE):
+## Conversación con la IA (CLAUDE):
 
 https://claude.ai/share/31f7bb23-ca56-4c22-848d-5f452129a2fa
